@@ -3,7 +3,7 @@
     {
       "id": 1,
       "title": "Create new homepage banner",
-      "details": "Lorem ipsum",
+      "details": "Lorem ipsum ipsum ipsum",
       "complete": false
     },
     {
@@ -11,6 +11,12 @@
       "title": "Make marketing email",
       "details": "Lorem ipsum",
       "complete": false
+    },
+    {
+      "title": "Design a new website",
+      "details": "Blah",
+      "complete": false,
+      "id": 4
     }
   ]
 }
